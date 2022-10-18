@@ -3,6 +3,9 @@
  ## `Travel is the movement of people between distant geographical locations.`
 
 
+# Website🔗 :
+
+# <a href="https://warm-smakager-35a1a3.netlify.app/" target="_blank">🚀Travel_Template</a>
 
 ## Travelogues and blogs
 
@@ -23,7 +26,3 @@ Travel agency websites selling travel and tourism services.
 
 Fare aggregators and metasearch engines
 
-
-# Website🔗 :
-
-# <a href="https://warm-smakager-35a1a3.netlify.app/" target="_blank">🚀Travel_Template</a>
